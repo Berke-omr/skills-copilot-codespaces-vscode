@@ -22,7 +22,6 @@ GitHub Copilot is an AI-powered code completion tool developed by GitHub and Ope
 - `Esc` - Dismiss the current suggestion
 - `Alt + ]` - Next suggestion
 - `Alt + [` - Previous suggestion
-- `Ctrl + Shift + A` - Toggle Copilot on/off
 
 **macOS:**
 - `Cmd + Enter` - Open Copilot suggestions panel (see all suggestions)
@@ -30,7 +29,6 @@ GitHub Copilot is an AI-powered code completion tool developed by GitHub and Ope
 - `Esc` - Dismiss the current suggestion
 - `Option + ]` - Next suggestion
 - `Option + [` - Previous suggestion
-- `Cmd + Shift + A` - Toggle Copilot on/off
 
 ### Tips for Better Suggestions
 
